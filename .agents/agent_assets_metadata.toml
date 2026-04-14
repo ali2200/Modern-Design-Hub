@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "hpcDuiES6LJuDlcXYtMKH"
+uri = "file://artifacts/mockup-sandbox/public/images/kunafa-hero.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "lg3JjAqADheVrySpeOP2k"
+uri = "file://artifacts/mockup-sandbox/public/images/sweets-assortment.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "PRbBVsbwyX7n12HBkhRpS"
+uri = "file://artifacts/mockup-sandbox/public/images/baklava.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "WA-Np-V7-L2ROtP0dYznh"
+uri = "file://artifacts/mockup-sandbox/public/images/kunafa-slice.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "WYgfDaCnXfFnIwN4oaCVj"
+uri = "file://artifacts/mockup-sandbox/public/images/bakery-interior.png"
+type = "image"
+title = "generated_image"
+
+[[generated]]
+id = "r4Y_xMYQ1OYa5BQBbNVxg"
+uri = "file://artifacts/mockup-sandbox/public/images/oriental-cake.png"
+type = "image"
+title = "generated_image"
